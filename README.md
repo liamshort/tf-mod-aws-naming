@@ -28,7 +28,7 @@ No resources.
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
 | <a name="input_name_prefix"></a> [name\_prefix](#input\_name\_prefix) | The short name for the service | `string` | n/a | yes |
-| <a name="input_region"></a> [region](#input\_region) | The AWS region (eg. eu-west-1) | `string` | n/a | yes |
+| <a name="input_region"></a> [region](#input\_region) | The AWS region (eg. eu-west-2) | `string` | `"eu-west-2"` | no |
 
 ## Outputs
 
@@ -51,7 +51,7 @@ No resources.
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
 | <a name="input_name_prefix"></a> [name\_prefix](#input\_name\_prefix) | The short name for the service | `string` | n/a | yes |
-| <a name="input_region"></a> [region](#input\_region) | The AWS region (eg. eu-west-1) | `string` | n/a | yes |
+| <a name="input_region"></a> [region](#input\_region) | The AWS region (eg. eu-west-2) | `string` | `"eu-west-2"` | no |
 
 ## Outputs
 
